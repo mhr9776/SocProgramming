@@ -15,6 +15,7 @@ public class SocServer {
 
         System.out.println("server is waiting for client request");
         Socket s = ss.accept();
+        System.out.println("yea");
 
         System.out.println("client connected");
         Scanner scanner = new Scanner(System.in);
@@ -28,6 +29,7 @@ public class SocServer {
           PrintWriter pr = new PrintWriter(s.getOutputStream());
           pr.println(scanner.next());
           pr.flush();
+
       }
     }
 }
