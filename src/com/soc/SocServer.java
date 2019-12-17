@@ -23,11 +23,15 @@ public class SocServer {
           InputStreamReader in = new InputStreamReader(s.getInputStream());
           BufferedReader bf = new BufferedReader(in);
           String str = bf.readLine();
+//          StringBuffer stringBuffer = new StringBuffer();
+//          for (String a:str) {
+//              stringBuffer.append(a).append("\\s");
+//          }
           System.out.println("Client: " + str);
 
 
           PrintWriter pr = new PrintWriter(s.getOutputStream());
-          pr.println(scanner.next());
+          pr.println(scanner.nextLine());
           pr.flush();
 
       }

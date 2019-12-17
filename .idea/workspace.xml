@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="197c44aa-84c2-496f-8f0e-4751b9d1598e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/socketProgramming/com/soc/SocClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/soc/SocClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/socketProgramming/com/soc/SocServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socketProgramming/com/soc/SocServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/soc/SocServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/soc/SocServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SocServer">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.soc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SocClient">
     <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chat.ChatServer" />
       <module name="socketProgramming" />
@@ -98,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SocServer" />
         <item itemvalue="Application.SocClient" />
+        <item itemvalue="Application.SocServer" />
         <item itemvalue="Application.ServerSide" />
         <item itemvalue="Application.ClientProgram" />
         <item itemvalue="Application.ChatServer" />
@@ -141,7 +150,19 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
       <updated>1576598396871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎۰۰۰۰۳" summary="serverSide completed">
+      <created>1576599877668</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1576599877668</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۴" summary="serverSide completed">
+      <created>1576600065848</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1576600065848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,30 +174,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1576413653292" />
-    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1576599876528">
+    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1576600064330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576599876528" />
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576600064330" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1576598116278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576598116278" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1576598135576">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1576602555976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576598135576" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1576598135576">
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576602555976" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1576602555976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576598135576" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1576598135576">
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576602555976" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1576602555976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576598135576" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1576598135576">
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576602555976" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1576602555976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576598135576" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576602555976" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576593341723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
